@@ -21,7 +21,7 @@ public class Game extends JFrame {
 	Die d = new Die();
 	MouseLis myListener = new MouseLis();
 	
-	File iconFile = new File("C:\\Users\\Computer\\IdeaProjects\\Minotaur\\src\\images\\bull.png");
+	File iconFile = new File("src\\images\\bull.png");
 	Image iconImage;
 	
 	
